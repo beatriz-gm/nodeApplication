@@ -2,6 +2,7 @@
 
 * Aplicação em Node.js onde o usuário cadastra um filme, preenche com algumas informações (nome, descrição, nota) e cria tags relacionadas a ele.
 
+![alt text](assets/tables.png "layout")
   
 ## Detalhes adicionados ao projeto:
 - Criptografia de senhas;
@@ -19,4 +20,5 @@ npm run dev
 npm run migrate
 ```
 
-### By: [Beatriz Galvão](https://www.linkedin.com/in/beatriz-galmed/) 🖤
+### By: [Beatriz Galvão](https://www.linkedin.com/in/beatriz-galmed/) 💜
+
